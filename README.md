@@ -14,8 +14,8 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/gabodevcode)&nbsp;
-  ![GitHub watchers](https://img.shields.io/github/watchers/gabodevcode/gabodevcode)
+  ![GitHub followers](https://img.shields.io/github/followers/fabriciodev26)&nbsp;
+  ![GitHub watchers](https://img.shields.io/github/watchers/fabriciodev26/gabodevcode)
   
 </div>
 
@@ -62,11 +62,11 @@ Hey there! **`Fabricio Iparraguirre`**, a Software Engineering student at the Un
   
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gabodevcode&show_icons=true&theme=tokyonight&locale=en" alt="gabodevcode" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fabriciodev26&show_icons=true&theme=tokyonight&locale=en" alt="fabriciodev26" />
   <br><br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabodevcode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gabodevcode" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciodev26&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="fabriciodev26" />
   <br><br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabodevcode&show_icons=true&theme=tokyonight&locale=en" alt="gabodevcode"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciodev26&show_icons=true&theme=tokyonight&locale=en" alt="fabriciodev26"/>
   <br>
 </td>
  </tr>
