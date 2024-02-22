@@ -15,7 +15,7 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/fabriciodev26)&nbsp;
-  ![GitHub watchers](https://img.shields.io/github/watchers/fabriciodev26)
+  ![GitHub watchers](https://img.shields.io/github/watchers/fabriciodev26/fabriciodev26)
   
 </div>
 
