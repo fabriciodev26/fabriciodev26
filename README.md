@@ -22,7 +22,7 @@
 
 <p>
   
-Hey there! **`Fabricio Iparraguirre`**, a Software Engineering student at the Universidad Peruana de Ciencias Aplicadas. 💻 Besides my academic journey, I've been freelancing and fueling my learning through self-directed exploration🔍. Passionate about software development 🌐,  I'm always eager to expand my skills.
+Hey there! My name is **`Fabricio Iparraguirre`**, a Software Engineering student at the Universidad Peruana de Ciencias Aplicadas. 💻 Besides my academic journey, I've been freelancing and fueling my learning through self-directed exploration🔍. Passionate about software development 🌐,  I'm always eager to expand my skills.
 </p>
 </div>
 
